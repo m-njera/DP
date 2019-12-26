@@ -47,9 +47,13 @@ Reconstruction estimates a continuousvaluebasedon many inputs and makes guesses 
 ● Netflix dataset from 1998 to 2005
 
 ● 3 types of data
+
 ○ Training data: 100M ratings from 480k users randomly chosen on 18k movies.
+
 ○ Validation data: Containing 1.4M ratings.
+
 ○ Test data(probe data): Has 2.8M user/movie pairs without any rating.
+
 https://web.archive.org/web/20090925184737/http://archive.ics.uci.edu/ml/datasets/Netflix+Prize
 
 ## Alternative Methods
