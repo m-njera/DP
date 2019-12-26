@@ -59,8 +59,11 @@ https://web.archive.org/web/20090925184737/http://archive.ics.uci.edu/ml/dataset
 ## Alternative Methods
 
 ● Alternating Least Squares for training the model
+
 ● Matrix Factorization
+
 ● Gradient Descent
+
 ● Auto Encoders
 
 
@@ -105,8 +108,11 @@ an RBM has few connections if that user rated few movies. Each RBM only has a si
 Gibbs sampling is not a self-contained concept. It requires some prerequisite knowledge:
 
 - Bayes theorem -conditional probability
+
 - Monte Carlo The underlying concept is to userandomnessto solve problems that might bedeterministicin principle.
+
 - Markov model -a stochastic **model** used to **model** randomly changing systems. It is assumed that future states depend only on the current state, not on the events that occurred before it
+
 - Markov Chain Monte Carlo
 
 **Training RBM’s has difficult Theory**
