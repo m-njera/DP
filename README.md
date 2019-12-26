@@ -1,8 +1,6 @@
 # Recommender System using RBM
 
-```
-Munyaradzi Njera
-```
+
 
 ## What are Recommender Systems
 
@@ -16,6 +14,7 @@ A recommender system is a technology that is deployed in the **environment** whe
 
 
 ## Approaches to Recommender Systems
+![Image description](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.imgonline.com.ua%2Fexamples%2Fimpose-picture-on-another-picture.jpg&imgrefurl=https%3A%2F%2Fwww.imgonline.com.ua%2Feng%2Fimpose-picture-on-another-picture.php&docid=3qzTESPa_EvTLM&tbnid=GfTrIzganTxW8M%3A&vet=10ahUKEwih_vSU29LmAhVS3aQKHaa8AEoQMwhJKAAwAA..i&w=2560&h=1674&bih=597&biw=1242&q=image%20in%20another%20image%20online&ved=0ahUKEwih_vSU29LmAhVS3aQKHaa8AEoQMwhJKAAwAA&iact=mrc&uact=8)
 
 
 ## RBM vs Neural Networks
@@ -116,13 +115,13 @@ We follow an approximation to the gradient of a different objective function cal
 
 
 ## Forward Propagation -
+![Image description](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.imgonline.com.ua%2Fexamples%2Fimpose-picture-on-another-picture.jpg&imgrefurl=https%3A%2F%2Fwww.imgonline.com.ua%2Feng%2Fimpose-picture-on-another-picture.php&docid=3qzTESPa_EvTLM&tbnid=GfTrIzganTxW8M%3A&vet=10ahUKEwih_vSU29LmAhVS3aQKHaa8AEoQMwhJKAAwAA..i&w=2560&h=1674&bih=597&biw=1242&q=image%20in%20another%20image%20online&ved=0ahUKEwih_vSU29LmAhVS3aQKHaa8AEoQMwhJKAAwAA&iact=mrc&uact=8)
 
 ## Backward Propagation -
+![Image description](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.imgonline.com.ua%2Fexamples%2Fimpose-picture-on-another-picture.jpg&imgrefurl=https%3A%2F%2Fwww.imgonline.com.ua%2Feng%2Fimpose-picture-on-another-picture.php&docid=3qzTESPa_EvTLM&tbnid=GfTrIzganTxW8M%3A&vet=10ahUKEwih_vSU29LmAhVS3aQKHaa8AEoQMwhJKAAwAA..i&w=2560&h=1674&bih=597&biw=1242&q=image%20in%20another%20image%20online&ved=0ahUKEwih_vSU29LmAhVS3aQKHaa8AEoQMwhJKAAwAA&iact=mrc&uact=8)
 
 
-### Making
-
-### Predictions
+### Making Predictions
 
 
 We compute the probabilities for each rating from 1-5.
@@ -133,6 +132,8 @@ The maximum probability from the calculated values gives us the rating which a p
 ## Results
 
 Used mean square error
+
+![Image description](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.imgonline.com.ua%2Fexamples%2Fimpose-picture-on-another-picture.jpg&imgrefurl=https%3A%2F%2Fwww.imgonline.com.ua%2Feng%2Fimpose-picture-on-another-picture.php&docid=3qzTESPa_EvTLM&tbnid=GfTrIzganTxW8M%3A&vet=10ahUKEwih_vSU29LmAhVS3aQKHaa8AEoQMwhJKAAwAA..i&w=2560&h=1674&bih=597&biw=1242&q=image%20in%20another%20image%20online&ved=0ahUKEwih_vSU29LmAhVS3aQKHaa8AEoQMwhJKAAwAA&iact=mrc&uact=8)
 
 
 ## References
