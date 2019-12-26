@@ -12,6 +12,7 @@ A recommender system is a technology that is deployed in the **environment** whe
 
 
 ## Approaches to Recommender Systems
+![][image_ref_a32ff4ads]
 
 
 ## Approaches to Recommender Systems
