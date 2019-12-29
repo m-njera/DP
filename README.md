@@ -71,7 +71,7 @@ https://web.archive.org/web/20090925184737/http://archive.ics.uci.edu/ml/dataset
 
 ## Restricted Boltzmann Machines
 
-Why we use RBM? I in collaborative filtering domain, most of the data sets are sparse and this creates a complex non-convex problem. Thus we use RBM.
+Why we use RBM? In collaborative filtering domain, most of the data sets are sparse and this creates a complex non-convex problem. Thus we use RBM.
 
 If we have M movies, N users and integral ratings from 1-K.
 
@@ -138,6 +138,8 @@ We follow an approximation to the gradient of a different objective function cal
 
 
 ### Making Predictions
+
+![alt text](img7.png)
 
 
 We compute the probabilities for each rating from 1-5.
