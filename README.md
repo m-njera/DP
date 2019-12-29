@@ -122,6 +122,7 @@ Gibbs sampling is not a self-contained concept. It requires some prerequisite kn
 
 **Contrastive Divergence**
 We follow an approximation to the gradient of a different objective function called CD. Expectation T represents a distribution of samples from running the Gibbs sampler.
+![alt text](img3.png)
 
 
 ## Forward Propagation -
