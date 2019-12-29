@@ -10,10 +10,12 @@ A recommender system is a technology that is deployed in the **environment** whe
 
 
 ## Approaches to Recommender Systems
+
 ![alt text](img1.png)
 
 
 ## Approaches to Recommender Systems
+
 ![alt text](img2.png)
 
 
@@ -122,14 +124,17 @@ Gibbs sampling is not a self-contained concept. It requires some prerequisite kn
 
 **Contrastive Divergence**
 We follow an approximation to the gradient of a different objective function called CD. Expectation T represents a distribution of samples from running the Gibbs sampler.
+
 ![alt text](img3.png)
 
 
 ## Forward Propagation -
-![Image description](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.imgonline.com.ua%2Fexamples%2Fimpose-picture-on-another-picture.jpg&imgrefurl=https%3A%2F%2Fwww.imgonline.com.ua%2Feng%2Fimpose-picture-on-another-picture.php&docid=3qzTESPa_EvTLM&tbnid=GfTrIzganTxW8M%3A&vet=10ahUKEwih_vSU29LmAhVS3aQKHaa8AEoQMwhJKAAwAA..i&w=2560&h=1674&bih=597&biw=1242&q=image%20in%20another%20image%20online&ved=0ahUKEwih_vSU29LmAhVS3aQKHaa8AEoQMwhJKAAwAA&iact=mrc&uact=8)
+
+![alt text](img4.png)
 
 ## Backward Propagation -
-![Image description](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.imgonline.com.ua%2Fexamples%2Fimpose-picture-on-another-picture.jpg&imgrefurl=https%3A%2F%2Fwww.imgonline.com.ua%2Feng%2Fimpose-picture-on-another-picture.php&docid=3qzTESPa_EvTLM&tbnid=GfTrIzganTxW8M%3A&vet=10ahUKEwih_vSU29LmAhVS3aQKHaa8AEoQMwhJKAAwAA..i&w=2560&h=1674&bih=597&biw=1242&q=image%20in%20another%20image%20online&ved=0ahUKEwih_vSU29LmAhVS3aQKHaa8AEoQMwhJKAAwAA&iact=mrc&uact=8)
+
+![alt text](img5.png)
 
 
 ### Making Predictions
@@ -144,7 +149,7 @@ The maximum probability from the calculated values gives us the rating which a p
 
 Used mean square error
 
-![Image description](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.imgonline.com.ua%2Fexamples%2Fimpose-picture-on-another-picture.jpg&imgrefurl=https%3A%2F%2Fwww.imgonline.com.ua%2Feng%2Fimpose-picture-on-another-picture.php&docid=3qzTESPa_EvTLM&tbnid=GfTrIzganTxW8M%3A&vet=10ahUKEwih_vSU29LmAhVS3aQKHaa8AEoQMwhJKAAwAA..i&w=2560&h=1674&bih=597&biw=1242&q=image%20in%20another%20image%20online&ved=0ahUKEwih_vSU29LmAhVS3aQKHaa8AEoQMwhJKAAwAA&iact=mrc&uact=8)
+![alt text](img6.png)
 
 
 ## References
