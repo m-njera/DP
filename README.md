@@ -141,7 +141,7 @@ We follow an approximation to the gradient of a different objective function cal
 
 <p align="center">
   
-  <img src="img7.png" width="350" alt="accessibility text">
+  <img src="img7.png" width="360" alt="accessibility text">
 </p>
 
 
