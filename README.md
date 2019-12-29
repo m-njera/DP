@@ -139,7 +139,10 @@ We follow an approximation to the gradient of a different objective function cal
 
 ### Making Predictions
 
-![alt text](img7.png)
+<p align="center">
+  
+  <img src="img7.png" width="350" alt="accessibility text">
+</p>
 
 
 We compute the probabilities for each rating from 1-5.
