@@ -4,7 +4,7 @@
 
 ## What are Recommender Systems
 
-Recommendation systems describe the **techniques** used to predict ratingsand opinionsinwhichausermighthaveapropensitytoexpress
+Recommendation systems describe the **techniques** used to predict ratingsand opinions in which a user might have a propensity to express choice.
 
 A recommender system is a technology that is deployed in the **environment** where **_items_** _(products, movies, events, articles)_ are to be recommended to **_users_** _(customers, visitors, app users, readers)_ or the opposite.
 
